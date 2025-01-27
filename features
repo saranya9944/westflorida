@@ -12,4 +12,4 @@ Feature: Form submission
 
     Examples: 
       | first name | last name | phone      | email               | Submission Message                                                     | 
-      | Saranya    | Deepthi | 9999999999 | example2314@gmail.com | "Thank you for filling out the form. Your response has been recorded." |
+      | Saranya    | Deepthi   | 9999999999 | example2314@gmail.com | "Thank you for filling out the form. Your response has been recorded." |
